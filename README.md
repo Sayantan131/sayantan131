@@ -10,7 +10,7 @@
 - 💬 Ask me about **c,c++,sql,javascript,html,css,python**
 
 - 📫 How to reach me **maitysayantan111@gmail.com**
-- ![gif](https://github.com/Sayantan131/sayantan131/assets/99899150/fb1146ec-d833-4411-8ed8-4c2b88c89d94)
+
 
 
 <h3 align="left">Connect with me:</h3>
