@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **web development**
 
-- 💬 Ask me/sayantan about **c,c++,sql, javascript,html,css**
+- 💬 Ask me/sayantan about **c,c++,sql, javascript,html,css,reactjs**
 
 - 📫 How to reach me **maitysayantan111@gmail.com**
 
